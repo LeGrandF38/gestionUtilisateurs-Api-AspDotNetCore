@@ -1,0 +1,10 @@
+@ApiProjetBlazor_HostAddress = https://localhost:7240
+
+GET {{ApiProjetBlazor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{ApiProjetBlazor_HostAddress}}/weatherforecast
+
+###
